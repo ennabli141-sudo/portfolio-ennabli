@@ -94,51 +94,7 @@ portfolio/
   <footer>
     <p>© 2026 – Abdelhak Ennabli</p>
   </footer>
-body {
-  font-family: "Segoe UI", Arial, sans-serif;
-  margin: 0;
-  background-color: #f7f7f7;
-  color: #333;
-}
 
-header {
-  background-color: #1e1e1e;
-  color: white;
-  text-align: center;
-  padding: 50px 20px;
-}
-
-section {
-  max-width: 900px;
-  margin: auto;
-  padding: 40px 20px;
-}
-
-h2 {
-  border-bottom: 2px solid #c59d5f;
-  padding-bottom: 5px;
-  margin-bottom: 20px;
-}
-
-ul {
-  list-style: square;
-  padding-left: 20px;
-}
-
-.job {
-  background: white;
-  padding: 20px;
-  margin-bottom: 15px;
-  border-left: 5px solid #c59d5f;
-}
-
-.job span {
-  font-size: 0.9em;
-  color: #666;
-}
-
-footer {
-  background: #ddd;
-  text-align: center;
-  padding: 20px;
-}
+  <script src="script.js"></script>
+</body>
+</html>}

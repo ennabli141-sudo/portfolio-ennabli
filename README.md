@@ -155,33 +155,43 @@ footer {
     <h3>Chef – Ouverture de restaurants</h3>
     <span>2023 – 2025 | Maroc</span>
     <p>Lancement de plusieurs enseignes, structuration des cuisines et formation des équipes.</p>
+    <p>ouverture de villa alerba maroc</p>
+    <p>ouverture l'olivier maroc</p>
+    <p>creation et mise en place de menu ainsi que des fiches de travail</p>
   </div>
 
   <div class="job">
     <h3>Chef & Commis de cuisine – ARENFIP</h3>
     <span>2019 – 2023</span>
+    <p>j'ai commencé ma première experience en france dans se service pour m'acclimaté avec l'environnement et la cuisine française </p>
+    <p>gestion service traiteur</p>
   </div>
 
   <div class="job">
     <h3>Chef de cuisine – Taverna di Mezzo</h3>
     <span>2017 – 2019</span>
     <p>Cuisine italienne locale revisitée.</p>
+    <p>cuisine traditionnelle romagnole j'avais pour mission l'éloaboration de la carte </p>
+    <p>une carte à base de produits de saison et selon arrivage specialité les pates fraiches</p>
+    <p>Gestion des événements avec des menus fusion</p>
   </div>
 
   <div class="job">
     <h3>Sous-chef – Pousada</h3>
     <span>2014 – 2017</span>
-    <p>Cuisine sud-américaine.</p>
+    <p>Cuisine sud-américaine produits brésiliens, argentins et péruvien travail autour de la grillade à la façon américaine.</p>
+    <p>j'avais pour mission aussi la carte des entrées quotidiennes selon l'arrivage du marché</p>
   </div>
 
   <div class="job">
     <h3>Sous-chef – Salino</h3>
     <span>2012 – 2014</span>
-    <p>Cuisine de bistro saisonnière.</p>
+    <p>Cuisine de bistro saisonnière dans une regions touristique travail des produits de la mer frais à proximité du port ainsi qu'un travail des grillades poissons et viandes.</p>
   </div>
 
   <div class="job">
     <h3>Serveur en salle – Villa Prati</h3>
+    <p>pizzéria et spécialité italienne traditionnelle  emilia-romagnola</p>
     <span>2010 – 2012</span>
   </div>
 </section>

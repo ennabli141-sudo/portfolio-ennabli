@@ -206,7 +206,7 @@ footer {
 
 <section id="languages">
   <h2>Langues</h2>
-  <p>Français • Anglais • Italien • Arabe</p>
+  <p>Français • Anglais • Italien • Arabe • Espagnol </p>
 </section>
 
 <footer>
